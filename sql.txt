@@ -1,4 +1,5 @@
 --creating database
+CREATE DATABASE `Olx_db`; 
 --location of company or product
 CREATE TABLE Location
 (
